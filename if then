@@ -1,0 +1,4 @@
+# for while loop 2
+countdown > 0:
+countdown -= 1
+print "BLAST OFF!"
